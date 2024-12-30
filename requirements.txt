@@ -1,0 +1,2 @@
+aiosmtplib~=3.0.2
+pyyaml~=3.0.2

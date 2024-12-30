@@ -1,0 +1,5 @@
+.venv
+test_pics/
+contacts.csv
+creds.yaml
+.DS_Store
