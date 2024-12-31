@@ -50,15 +50,10 @@ async def main():
     html_body = """
     <html>
         <body>
-            <h1>I KNOW WHERE YOU SLEEP</h1>
-            <p>Just Kidding.</p>
-            <p>But I do know where you live.</p>
-            <p>And I know where you work.</p>
-            <p>And I know what you do in your free time.</p>
-            <p>And I know what you eat.</p>
-            <p>And I know what you drink.</p>
-            <p>And I know what you wear.</p>
-            <p>And I also know where you sleep.</p>
+            <h1>Test Header</h1>
+            <p>Test Body.</p>
+            <p>Here is an image:</p>
+
             <img src="cid:image1" style="width:300px;height:auto;">
         </body>
     </html>
